@@ -77,6 +77,7 @@ CONFIG_DEFAULT_TARGET_OPTIMIZATION="-Os -pipe -mcpu=cortex-a53"
 CONFIG_CPU_TYPE="cortex-a53"
 CONFIG_LINUX_4_4=y
 CONFIG_DEFAULT_ath11k-firmware-ipq6018=y
+CONFIG_DEFAULT_ath11k-wifi-cmiot-ax18=y
 CONFIG_DEFAULT_base-files=y
 CONFIG_DEFAULT_busybox=y
 CONFIG_DEFAULT_dnsmasq=y
