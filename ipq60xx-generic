@@ -1582,7 +1582,7 @@ CONFIG_ZABBIX_POSTGRESQL=y
 #
 # ath11k Board-Specific Overrides
 #
-# CONFIG_PACKAGE_ath11k-wifi-cmiot-ax18 is not set
+CONFIG_PACKAGE_ath11k-wifi-cmiot-ax18=y
 # CONFIG_PACKAGE_ath11k-wifi-gl-ax1800 is not set
 # CONFIG_PACKAGE_ath11k-wifi-gl-axt1800 is not set
 # CONFIG_PACKAGE_ath11k-wifi-qihoo_v6 is not set
