@@ -54,7 +54,6 @@ CONFIG_TARGET_MULTI_PROFILE=y
 # CONFIG_TARGET_ipq60xx_generic_DEVICE_linksys_mr7350 is not set
 # CONFIG_TARGET_ipq60xx_generic_DEVICE_qihoo_v6 is not set
 # CONFIG_TARGET_ipq60xx_generic_DEVICE_xiaomi_rm1800 is not set
-# CONFIG_TARGET_ipq60xx_generic_DEVICE_xiaomi_redmi-ax5-jdcloud is not set
 # CONFIG_TARGET_ipq60xx_generic_DEVICE_zn_m2 is not set
 
 #
@@ -68,7 +67,6 @@ CONFIG_TARGET_PER_DEVICE_ROOTFS=y
 # CONFIG_TARGET_DEVICE_ipq60xx_generic_DEVICE_huasifei_wf-hr6001 is not set
 # CONFIG_TARGET_DEVICE_ipq60xx_generic_DEVICE_linksys_mr7350 is not set
 # CONFIG_TARGET_DEVICE_ipq60xx_generic_DEVICE_qihoo_v6 is not set
-# CONFIG_TARGET_DEVICE_ipq60xx_generic_DEVICE_xiaomi_redmi-ax5-jdcloud is not set
 CONFIG_TARGET_DEVICE_ipq60xx_generic_DEVICE_xiaomi_rm1800=y
 CONFIG_TARGET_DEVICE_PACKAGES_ipq60xx_generic_DEVICE_xiaomi_rm1800=""
 CONFIG_TARGET_DEVICE_ipq60xx_generic_DEVICE_zn_m2=y
