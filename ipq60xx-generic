@@ -6496,7 +6496,10 @@ CONFIG_PACKAGE_e2fsprogs=m
 # CONFIG_PACKAGE_colrm is not set
 # CONFIG_PACKAGE_conmon is not set
 # CONFIG_PACKAGE_containerd is not set
-# CONFIG_PACKAGE_coremark is not set
+CONFIG_PACKAGE_coremark=y
+CONFIG_COREMARK_OPTIMIZE_O3=y
+CONFIG_COREMARK_ENABLE_MULTITHREADING=y
+CONFIG_COREMARK_NUMBER_OF_THREADS=4
 # CONFIG_PACKAGE_coreutils is not set
 # CONFIG_PACKAGE_cpusage is not set
 # CONFIG_PACKAGE_crconf is not set
